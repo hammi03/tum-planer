@@ -1,4 +1,4 @@
-// Hier deine Google-Client-ID eintragen (siehe ANLEITUNG.md), dann musst du sie nicht auf jedem Gerät einzeln einfügen.
+// Google-Client-ID fuer den Drive-Sync (Projekt tum-planer in der Google Cloud Console).
 window.PLANER_CONFIG = {
-  googleClientId: ""
+  googleClientId: "477860379113-blrvp76n192ec56hh7qdbd0tcsfgfpql.apps.googleusercontent.com"
 };
